@@ -1,0 +1,4 @@
+{ cluster_name: 'New York' ,
+    values : [{date: '3/15', infected_count: 300, bar_percentage: 60},
+              {date: '3/16', infected_count: 400, bar_percentage: 80},
+              {date: '3/17', infected_count: 500, bar_percentage: 100}]}
